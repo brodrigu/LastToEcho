@@ -1,0 +1,7 @@
+required packages
+*python-lastfm
+ http://code.google.com/p/python-lastfm/
+*pyechonest
+ http://code.google.com/p/pyechonest/
+*appscript
+ http://appscript.sourceforge.net/py-appscript/index.html
